@@ -188,7 +188,7 @@ a {
 #projects div div img {
   width: 100%;
   height: 100%;
-  max-width: auto;
+  max-width: 250px;
   max-height: 175px;
 }
 
